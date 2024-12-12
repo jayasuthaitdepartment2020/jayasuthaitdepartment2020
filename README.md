@@ -1,6 +1,5 @@
 - 👋 Hi, I am jayasutha
 - 👀 I’m interested in python
-- 🌱 I’m currently learning B TECH IT
 - 💞️ I’m looking to collaborate on python developers
 - 📫 How to reach me ...
 
